@@ -35,6 +35,7 @@ I enjoy algorithmic problem-solving, backend development, and exploring cloud-na
 ## Connect
 
 - [GitHub](https://github.com/GitnamanHub)
+- [LinkedIn](https://www.linkedin.com/in/naman-agrawal-07a701251/)
 
 ---
 
