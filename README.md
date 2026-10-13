@@ -11,7 +11,7 @@ I enjoy algorithmic problem-solving, backend development, and exploring cloud-na
 - 🧩 Enjoy solving data structures and algorithms problems
 - 🌱 Continuously learning about distributed systems and software design
 
-## Technologies
+## Tech stack
 
 **Languages:** C++, Go, Python, Java, JavaScript, SQL
 
@@ -19,13 +19,18 @@ I enjoy algorithmic problem-solving, backend development, and exploring cloud-na
 
 **Areas of interest:** Distributed systems · Systems programming · Cloud-native development · Software design
 
-## Selected work
+## Selected projects
 
-- [LeetCode solutions](https://github.com/GitnamanHub/leetcode) — Data structures and algorithms practice.
-- [CP-31](https://github.com/GitnamanHub/CP-31) — Competitive programming practice in C++.
-- [Sudoku Solver](https://github.com/GitnamanHub/Sudoku-solver) — Sudoku-solving project.
-- [Snake Game](https://github.com/GitnamanHub/Snake-game) — A classic game implementation.
-- [GOVNIC](https://github.com/GitnamanHub/GOVNIC) — Project exploring NIC code prediction and government-scheme recommendations.
+- **[GOVNIC / GovBizConnect](https://github.com/GitnamanHub/GOVNIC)** — NIC-code prediction and government-scheme recommendations, built with Python, FastAPI, Streamlit, and machine-learning tools.
+- **[DSA Practice](https://github.com/GitnamanHub/DSA)** — A curated collection of data structures and algorithms solutions organized by topic.
+- **[Sudoku Solver](https://github.com/GitnamanHub/Sudoku-solver)** — A Sudoku solver using backtracking.
+- **[Snake Game](https://github.com/GitnamanHub/Snake-game)** — A small implementation of the classic Snake game.
+
+## Problem-solving
+
+- [LeetCode solutions](https://github.com/GitnamanHub/leetcode) — Solutions primarily in C++, with selected implementations in Go, Java, and Python.
+- [CP-31](https://github.com/GitnamanHub/CP-31) — C++ competitive-programming practice.
+- [SQL interview practice](https://github.com/GitnamanHub/SQL_leetcode) — SQL query practice and database concepts.
 
 ## Connect
 
@@ -33,4 +38,4 @@ I enjoy algorithmic problem-solving, backend development, and exploring cloud-na
 
 ---
 
-*I use these repositories to document projects, practice, and ongoing learning. Each project's README contains its own details and setup instructions.*
+*These repositories document projects, practice, and ongoing learning. Check each project's README for its implementation details and setup instructions.*
